@@ -3,6 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="uv (ai_safety) (3)" />
   </component>
-  <component name="KubernetesApiProvider"><![CDATA[{}]]></component>
   <component name="ProjectRootManager" version="2" project-jdk-name="uv (ai_safety) (3)" project-jdk-type="Python SDK" />
 </project>
