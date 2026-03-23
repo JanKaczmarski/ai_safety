@@ -27,6 +27,7 @@ dependencies = [
     "notebook>=7.5.4",
     "keras>=3.13.2",
     "adversarial-robustness-toolbox>=1.20.1",
+    "tensorflow-metal>=1.2.0",
 ]
 
 
