@@ -25,6 +25,8 @@ dependencies = [
     "torch>=2.8.0",
     "torchvision>=0.23.0",
     "notebook>=7.5.4",
+    "keras>=3.13.2",
+    "adversarial-robustness-toolbox>=1.20.1",
 ]
 
 
